@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0008-string-to-integer-atoi) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -31,4 +32,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
+## Enumeration
+|  |
+| ------- |
+| [3499-maximize-active-section-with-trade-i](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/3499-maximize-active-section-with-trade-i) |
 <!---LeetCode Topics End-->
