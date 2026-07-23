@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0009-palindrome-number) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## String
 |  |
 | ------- |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Rolling Hash
 |  |
 | ------- |
