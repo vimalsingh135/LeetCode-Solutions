@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0018-4sum) |
+| [0037-sudoku-solver](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
+| [0037-sudoku-solver](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Bit Manipulation
 |  |
@@ -102,4 +104,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
+## Matrix
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
+## Algorithm X
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
