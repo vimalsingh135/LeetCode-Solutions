@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0038-count-and-say) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0455-assign-cookies](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 ## Greedy
 |  |
@@ -131,4 +133,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0455-assign-cookies) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
