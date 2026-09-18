@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0038-count-and-say) |
 | [0072-edit-distance](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0072-edit-distance) |
 | [0151-reverse-words-in-a-string](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
+| [0242-valid-anagram](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Bit Manipulation
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0018-4sum) |
+| [0242-valid-anagram](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 ## Linked List
