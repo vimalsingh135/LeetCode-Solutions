@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0046-permutations) |
 | [0063-unique-paths-ii](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0063-unique-paths-ii) |
+| [0073-set-matrix-zeroes](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
+| [0073-set-matrix-zeroes](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0242-valid-anagram](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0063-unique-paths-ii](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0063-unique-paths-ii) |
+| [0073-set-matrix-zeroes](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 ## Algorithm X
 |  |
 | ------- |
