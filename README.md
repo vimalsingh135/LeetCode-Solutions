@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0038-count-and-say) |
 | [0072-edit-distance](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0072-edit-distance) |
+| [0091-decode-ways](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0091-decode-ways) |
 | [0151-reverse-words-in-a-string](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0072-edit-distance) |
+| [0091-decode-ways](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0198-house-robber) |
 ## Memoization
