@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0063-unique-paths-ii](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0063-unique-paths-ii) |
+| [0066-plus-one](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
