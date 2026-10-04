@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0063-unique-paths-ii](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0066-plus-one) |
+| [0068-text-justification](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0049-group-anagrams) |
+| [0068-text-justification](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0068-text-justification) |
 | [0072-edit-distance](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0091-decode-ways) |
 | [0151-reverse-words-in-a-string](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
@@ -308,4 +310,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
+## Simulation
+|  |
+| ------- |
+| [0068-text-justification](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0068-text-justification) |
 <!---LeetCode Topics End-->
