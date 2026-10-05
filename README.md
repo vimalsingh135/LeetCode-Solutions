@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3501-maximize-active-section-with-trade-ii](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3875-construct-uniform-parity-array-i](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3345-smallest-divisible-digit-product-i](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3875-construct-uniform-parity-array-i](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## String
 |  |
 | ------- |
