@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0455-assign-cookies) |
+| [0877-stone-game](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0877-stone-game](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0198-house-robber) |
+| [0877-stone-game](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0877-stone-game) |
 ## Memoization
 |  |
 | ------- |
@@ -314,4 +317,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0068-text-justification](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0068-text-justification) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
