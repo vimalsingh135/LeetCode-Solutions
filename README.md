@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0877-stone-game](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0877-stone-game) |
+| [1688-count-of-matches-in-tournament](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/1688-count-of-matches-in-tournament) |
 | [2396-strictly-palindromic-number](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/2396-strictly-palindromic-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -321,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0068-text-justification](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0068-text-justification) |
+| [1688-count-of-matches-in-tournament](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/1688-count-of-matches-in-tournament) |
 ## Minimax
 |  |
 | ------- |
