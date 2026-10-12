@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0049-group-anagrams) |
+| [0055-jump-game](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0066-plus-one) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0455-assign-cookies](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0072-edit-distance) |
