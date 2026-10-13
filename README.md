@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0049-group-anagrams) |
+| [0058-length-of-last-word](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0058-length-of-last-word) |
 | [0068-text-justification](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0068-text-justification) |
 | [0072-edit-distance](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0091-decode-ways) |
