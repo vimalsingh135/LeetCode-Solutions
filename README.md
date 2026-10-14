@@ -384,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0310-minimum-height-trees](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0310-minimum-height-trees) |
 ## Breadth-First Search
 |  |
@@ -397,4 +398,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0310-minimum-height-trees](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0310-minimum-height-trees) |
+## Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0098-validate-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0098-validate-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
