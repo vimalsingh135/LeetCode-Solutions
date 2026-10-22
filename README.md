@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0283-move-zeroes) |
+| [0289-game-of-life](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0289-game-of-life) |
 | [0347-top-k-frequent-elements](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0877-stone-game](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0877-stone-game) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
+| [0289-game-of-life](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0289-game-of-life) |
 ## Algorithm X
 |  |
 | ------- |
@@ -378,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0068-text-justification](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0068-text-justification) |
+| [0289-game-of-life](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0289-game-of-life) |
 | [1688-count-of-matches-in-tournament](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/1688-count-of-matches-in-tournament) |
 ## Minimax
 |  |
