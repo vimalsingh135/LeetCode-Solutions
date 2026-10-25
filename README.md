@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0877-stone-game](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0877-stone-game) |
+| [0986-interval-list-intersections](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0986-interval-list-intersections) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0455-assign-cookies) |
+| [0986-interval-list-intersections](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0986-interval-list-intersections) |
 | [2396-strictly-palindromic-number](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/2396-strictly-palindromic-number) |
 ## Greedy
 |  |
@@ -454,4 +456,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+## Sweep Line
+|  |
+| ------- |
+| [0986-interval-list-intersections](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0986-interval-list-intersections) |
 <!---LeetCode Topics End-->
