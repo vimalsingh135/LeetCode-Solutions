@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0268-missing-number) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0877-stone-game](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0877-stone-game) |
@@ -460,4 +462,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0986-interval-list-intersections](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0986-interval-list-intersections) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
