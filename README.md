@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0289-game-of-life) |
 | [0347-top-k-frequent-elements](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0455-assign-cookies) |
+| [0739-daily-temperatures](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [0877-stone-game](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [0986-interval-list-intersections](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0986-interval-list-intersections) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
+| [0739-daily-temperatures](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -372,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/vimalsingh135/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 ## Bucket Sort
 |  |
 | ------- |
